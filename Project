@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "The project is initialized"
+git push YOUR_PROJECT_HTTPS_ADDRESSmaster
